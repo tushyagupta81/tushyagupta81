@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushyagupta81&show_icons=true&locale=en&layout=compact" alt="tushyagupta81" /></p>
 
-
+<!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <!--
 **tushyagupta81/tushyagupta81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
