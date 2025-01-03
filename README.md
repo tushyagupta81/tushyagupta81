@@ -19,6 +19,8 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=tushyagupta81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=tushyagupta81&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushyagupta81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushyagupta81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![tushyagupta81's Stats](https://github-readme-stats.vercel.app/api?username=tushyagupta81&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![tushyagupta81's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushyagupta81&theme=vue-dark&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
